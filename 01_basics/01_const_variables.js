@@ -1,5 +1,5 @@
 let  bishal = 1234.3
-let chalise = 'chalise'
+let chalise
 // console.log(bishal, chalise)
 
 
